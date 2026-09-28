@@ -1,0 +1,1 @@
+Built a Random Forest classification model for predicting loan approval outcomes, achieving 97% precision. Performed data preprocessing, model development and evaluation, and applied SHAP (SHapley Additive exPlanations) and LIME (Local Interpretable Model-Agnostic Explanations) to interpret model predictions and examine the contribution of individual features to model decisions.
